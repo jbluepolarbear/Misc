@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        JVector.py
+# Purpose:     A simple Vector class
+#
+# Author:      Jeremy Anderson
+#
+# Created:     25/02/2011
+# Copyright:   (c) Jeremy Anderson 2011
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 from JMatrix import *
 import math
 import numpy
