@@ -10,6 +10,8 @@
 #-------------------------------------------------------------------------------
 
 import numpy
+from JVector import *
+import copy
 
 from math import *
 def Deg2Rad( x ):
@@ -17,7 +19,6 @@ def Deg2Rad( x ):
 def Rad2Deg( x ):
   return x * 57.295779
 
-from JVector import *
 
 class MatrixError(Exception):
   #Matrix Exception class
@@ -35,40 +36,36 @@ def MatrixHelper( _11 = 0.0, _12 = 0.0, _13 = 0.0, _14 = 0.0,
     return [(_11,_12,_13,_14),(_21,_22,_23,_24),(_31,_32,_33,_34),(_41,_42,_43,_44)]
 
 class Matrix(object):
-    def __init__( self, args = None, empty = False ):
+    def __init__( self, *args ):
         if not args:
-            self.data = numpy.array( [(1.0,0.0,0.0,0.0), (0.0,1.0,0.0,0.0), (0.0,0.0,1.0,0.0), (0.0,0.0,0.0,1.0)] )
+            self.data = numpy.matrix( [(1.0,0.0,0.0,0.0), (0.0,1.0,0.0,0.0), (0.0,0.0,1.0,0.0), (0.0,0.0,0.0,1.0)] )
 
         elif len(args) == 4:
-            self.data = numpy.array( [(1.0,0.0,0.0,0.0), (0.0,1.0,0.0,0.0), (0.0,0.0,1.0,0.0), (0.0,0.0,0.0,1.0)] )
+            self.data = numpy.matrix( [(1.0,0.0,0.0,0.0), (0.0,1.0,0.0,0.0), (0.0,0.0,1.0,0.0), (0.0,0.0,0.0,1.0)] )
 
             self.row0 = args[0]
             self.row1 = args[1]
             self.row2 = args[2]
             self.row3 = args[3]
 
-        elif empty:
-            self.data = None
-            return
-
         else:
             raise TypeError( 'Matrix.__init__() takes 0, or 4 arguments (%i given)' % len(args) )
 
     @property
     def row0(self):
-        return tuple(self.data[0].tolist())
+        return self.data[0]
 
     @property
     def row1(self):
-        return tuple(self.data[1].tolist())
+        return self.data[1]
 
     @property
     def row2(self):
-        return tuple(self.data[2].tolist())
+        return self.data[2]
 
     @property
     def row3(self):
-        return tuple(self.data[3].tolist())
+        return self.data[3]
 
     @row0.setter
     def row0(self, value):
@@ -103,26 +100,32 @@ class Matrix(object):
     def __getitem__( self, index ):
         return self.data[index]
 
+    def __setitem__( self, index, value ):
+        self.data[index] = float(value)
+
+    def copy( self ):
+        return copy.deepcopy( self )
+
     @staticmethod
     def identity():
         return Matrix()
 
     def __mul__( self, rhs ):
-        mat = Matrix(empty = True)
-        mat.data = numpy.dot( self.data, rhs.data )
+        mat = Matrix()
+        mat.data = self.data * rhs.data
         return mat
 
     def __add__( self, rhs ):
-        mat = Matrix(empty = True)
+        mat = Matrix()
         mat.data = self.data + rhs.data
         return mat
 
     def __sub__( self, rhs ):
-        mat = Matrix(empty = True)
+        mat = Matrix()
         mat.data = self.data - rhs.data
 
     def transpose( self ):
-        mat = Matrix(empty = True)
+        mat = Matrix()
         mat.data = self.data.T
         return mat
 
@@ -131,48 +134,48 @@ class Matrix(object):
 
     @staticmethod
     def translate( x = 0.0, y = 0.0, z = 0.0 ):
-        return Matrix([
+        return Matrix(
             (1.0,0.0,0.0,x),
             (0.0,1.0,0.0,y),
             (0.0,0.0,1.0,z),
             (0.0,0.0,0.0,1.0)
-        ])
+        )
 
     @staticmethod
     def scale( x = 1.0, y = 1.0, z = 1.0 ):
-        return Matrix([
+        return Matrix(
             (x,0.0,0.0,0.0),
             (0.0,y,0.0,0.0),
             (0.0,0.0,z,0.0),
             (0.0,0.0,0.0,1.0)
-        ])
+        )
 
     @staticmethod
     def rotatex( angle ):
-        return Matrix([
+        return Matrix(
             (1.0,0.0,0.0,0.0),
             (0.0,cos(Deg2Rad(angle)),-sin(Deg2Rad(angle)),0.0),
             (0.0,sin(Deg2Rad(angle)),cos(Deg2Rad(angle)),0.0),
             (0.0,0.0,0.0,1.0)
-        ])
+        )
 
     @staticmethod
     def rotatey( angle ):
-        return Matrix([
+        return Matrix(
             (cos(Deg2Rad(angle)),0.0,sin(Deg2Rad(angle)),0.0),
             (0.0,1.0,0.0,0.0),
             (-sin(Deg2Rad(angle)),0.0,cos(Deg2Rad(angle)),0.0),
             (0.0,0.0,0.0,1.0)
-        ])
+        )
 
     @staticmethod
     def rotatez( angle ):
-        return Matrix([
+        return Matrix(
             (cos(Deg2Rad(angle)),-sin(Deg2Rad(angle)),0.0,0.0),
             (sin(Deg2Rad(angle)),cos(Deg2Rad(angle)),0.0,0.0),
             (0.0,0.0,1.0,0.0),
             (0.0,0.0,0.0,1.0)
-        ])
+        )
 
     def __repr__( self ):
         return str( self.row0 ) + '\n' + str( self.row1 ) + '\n' + str( self.row2 ) + '\n' + str( self.row3 )
@@ -185,9 +188,14 @@ if __name__ == '__main__':
     print m.row1
 
     print
-    print m[0][0]
-    m[2][3] = 2.0
+    temp = m[0,0]
+    print temp
+    m[0,0] = 5.0
+    print
     print m
-
+    print
     m1 = Matrix.translate( 2.0, 3.0, 4.0 )
     print m1
+
+    print
+    print m1 * Matrix()
