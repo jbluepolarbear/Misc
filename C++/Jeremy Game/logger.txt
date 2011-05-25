@@ -1,0 +1,2428 @@
+Index: 180
+x: 410, y: 110
+Index: 220
+x: 410, y: 130
+Index: 140
+x: 410, y: 90
+Index: 181
+x: 430, y: 110
+Index: 179
+x: 390, y: 110
+Index: 100
+x: 410, y: 70
+Index: 141
+x: 430, y: 90
+Index: 182
+x: 450, y: 110
+Index: 221
+x: 430, y: 130
+Index: 260
+x: 410, y: 150
+Index: 219
+x: 390, y: 130
+Index: 178
+x: 370, y: 110
+Index: 139
+x: 390, y: 90
+Index: 138
+x: 370, y: 90
+Index: 222
+x: 450, y: 130
+Index: 142
+x: 450, y: 90
+Index: 218
+x: 370, y: 130
+Index: 99
+x: 390, y: 70
+Index: 101
+x: 430, y: 70
+Index: 60
+x: 410, y: 50
+Index: 259
+x: 390, y: 150
+Index: 261
+x: 430, y: 150
+Index: 300
+x: 410, y: 170
+Index: 183
+x: 470, y: 110
+Index: 177
+x: 350, y: 110
+Index: 144
+x: 490, y: 90
+Index: 184
+x: 490, y: 110
+Index: 104
+x: 490, y: 70
+Index: 145
+x: 510, y: 90
+Index: 143
+x: 470, y: 90
+Index: 64
+x: 490, y: 50
+Index: 105
+x: 510, y: 70
+Index: 146
+x: 530, y: 90
+Index: 185
+x: 510, y: 110
+Index: 224
+x: 490, y: 130
+Index: 183
+Index: 142
+Index: 103
+x: 470, y: 70
+Index: 102
+x: 450, y: 70
+Index: 186
+x: 530, y: 110
+Index: 106
+x: 530, y: 70
+Index: 182
+Index: 63
+x: 470, y: 50
+Index: 65
+x: 510, y: 50
+Index: 24
+x: 490, y: 30
+Index: 223
+x: 470, y: 130
+Index: 225
+x: 510, y: 130
+Index: 264
+x: 490, y: 150
+Index: 147
+x: 550, y: 90
+Index: 141
+Index: 139
+Index: 179
+Index: 99
+Index: 140
+Index: 138
+Index: 53
+x: 270, y: 50
+Index: 59
+x: 390, y: 50
+Index: 100
+Index: 141
+Index: 180
+Index: 219
+Index: 178
+Index: 137
+x: 350, y: 90
+Index: 98
+x: 370, y: 70
+Index: 93
+x: 270, y: 70
+Index: 13
+x: 270, y: 30
+Index: 54
+x: 290, y: 50
+Index: 52
+x: 250, y: 50
+Index: 97
+x: 350, y: 70
+Index: 181
+Index: 101
+Index: 177
+Index: 58
+x: 370, y: 50
+Index: 60
+Index: 19
+x: 390, y: 30
+Index: 218
+Index: 220
+Index: 259
+Index: 142
+Index: 136
+x: 330, y: 90
+Index: 14
+x: 290, y: 30
+Index: 55
+x: 310, y: 50
+Index: 94
+x: 290, y: 70
+Index: 133
+x: 270, y: 90
+Index: 92
+x: 250, y: 70
+Index: 51
+x: 230, y: 50
+Index: 12
+x: 250, y: 30
+Index: 11
+x: 230, y: 30
+Index: 95
+x: 310, y: 70
+Index: 15
+x: 310, y: 30
+Index: 91
+x: 230, y: 70
+Index: 132
+x: 250, y: 90
+Index: 134
+x: 290, y: 90
+Index: 173
+x: 270, y: 110
+Index: 56
+x: 330, y: 50
+Index: 50
+x: 210, y: 50
+Index: 220
+Index: 260
+Index: 180
+Index: 221
+Index: 219
+Index: 140
+Index: 181
+Index: 222
+Index: 261
+Index: 300
+Index: 259
+Index: 218
+Index: 179
+Index: 178
+Index: 262
+x: 450, y: 150
+Index: 182
+Index: 258
+x: 370, y: 150
+Index: 139
+Index: 141
+Index: 100
+Index: 299
+x: 390, y: 170
+Index: 301
+x: 430, y: 170
+Index: 340
+x: 410, y: 190
+Index: 223
+Index: 217
+x: 350, y: 130
+Index: 137
+Index: 177
+Index: 97
+Index: 138
+Index: 136
+Index: 426
+x: 530, y: 230
+Index: 57
+x: 350, y: 50
+Index: 98
+Index: 139
+Index: 178
+Index: 217
+Index: 176
+x: 330, y: 110
+Index: 135
+x: 310, y: 90
+Index: 96
+x: 330, y: 70
+Index: 466
+x: 530, y: 250
+Index: 386
+x: 530, y: 210
+Index: 427
+x: 550, y: 230
+Index: 425
+x: 510, y: 230
+Index: 54
+Index: 95
+Index: 179
+Index: 99
+Index: 175
+x: 310, y: 110
+Index: 56
+Index: 58
+Index: 17
+x: 350, y: 30
+Index: 216
+x: 330, y: 130
+Index: 218
+Index: 257
+x: 350, y: 150
+Index: 140
+Index: 134
+Index: 471
+x: 630, y: 250
+Index: 466
+Index: 346
+x: 530, y: 190
+Index: 387
+x: 550, y: 210
+Index: 428
+x: 570, y: 230
+Index: 467
+x: 550, y: 250
+Index: 506
+x: 530, y: 270
+Index: 465
+x: 510, y: 250
+Index: 424
+x: 490, y: 230
+Index: 385
+x: 510, y: 210
+Index: 94
+Index: 14
+Index: 55
+Index: 53
+Index: 56
+Index: 511
+x: 630, y: 270
+Index: 431
+x: 630, y: 230
+Index: 472
+x: 650, y: 250
+Index: 470
+x: 610, y: 250
+Index: 506
+Index: 426
+Index: 467
+Index: 465
+Index: 384
+x: 490, y: 210
+Index: 468
+x: 570, y: 250
+Index: 388
+x: 570, y: 210
+Index: 464
+x: 490, y: 250
+Index: 345
+x: 510, y: 190
+Index: 347
+x: 550, y: 190
+Index: 306
+x: 530, y: 170
+Index: 505
+x: 510, y: 270
+Index: 507
+x: 550, y: 270
+Index: 546
+x: 530, y: 290
+Index: 429
+x: 590, y: 230
+Index: 423
+x: 470, y: 230
+Index: 15
+Index: 56
+Index: 95
+Index: 134
+Index: 93
+Index: 52
+Index: 13
+Index: 96
+Index: 16
+x: 330, y: 30
+Index: 57
+Index: 55
+Index: 391
+x: 630, y: 210
+Index: 432
+x: 650, y: 230
+Index: 473
+x: 670, y: 250
+Index: 512
+x: 650, y: 270
+Index: 551
+x: 630, y: 290
+Index: 510
+x: 610, y: 270
+Index: 469
+x: 590, y: 250
+Index: 430
+x: 610, y: 230
+Index: 386
+Index: 427
+Index: 468
+Index: 507
+Index: 546
+Index: 505
+Index: 464
+Index: 425
+Index: 12
+Index: 96
+Index: 16
+Index: 92
+Index: 133
+Index: 135
+Index: 174
+x: 290, y: 110
+Index: 57
+Index: 51
+Index: 137
+Index: 17
+Index: 58
+Index: 97
+Index: 136
+Index: 95
+Index: 54
+Index: 15
+Index: 103
+Index: 429
+Index: 513
+x: 670, y: 270
+Index: 433
+x: 670, y: 230
+Index: 509
+x: 590, y: 270
+Index: 390
+x: 610, y: 210
+Index: 392
+x: 650, y: 210
+Index: 351
+x: 630, y: 190
+Index: 550
+x: 610, y: 290
+Index: 552
+x: 650, y: 290
+Index: 591
+x: 630, y: 310
+Index: 474
+x: 690, y: 250
+Index: 468
+Index: 424
+Index: 508
+x: 570, y: 270
+Index: 428
+Index: 504
+x: 490, y: 270
+Index: 385
+Index: 387
+Index: 346
+Index: 545
+x: 510, y: 290
+Index: 547
+x: 550, y: 290
+Index: 586
+x: 530, y: 310
+Index: 469
+Index: 463
+x: 470, y: 250
+Index: 177
+Index: 97
+Index: 138
+Index: 136
+Index: 14
+Index: 98
+Index: 18
+x: 370, y: 30
+Index: 94
+Index: 135
+Index: 137
+Index: 176
+Index: 59
+Index: 53
+Index: 143
+Index: 63
+x: 470, y: 50
+Index: 104
+Index: 102
+Index: 57
+Index: 98
+Index: 139
+Index: 178
+Index: 217
+x: 350, y: 130
+Index: 176
+Index: 135
+Index: 96
+Index: 23
+x: 470, y: 30
+Index: 64
+Index: 105
+Index: 144
+Index: 183
+Index: 142
+Index: 101
+Index: 62
+Index: 95
+Index: 179
+Index: 99
+Index: 175
+x: 310, y: 110
+Index: 56
+Index: 58
+Index: 17
+Index: 216
+x: 330, y: 130
+Index: 218
+x: 370, y: 130
+Index: 257
+x: 350, y: 150
+Index: 140
+Index: 134
+x: 290, y: 90
+Index: 106
+Index: 61
+Index: 145
+Index: 65
+x: 510, y: 50
+Index: 141
+Index: 22
+x: 450, y: 30
+Index: 24
+Index: 182
+Index: 184
+Index: 223
+x: 470, y: 130
+Index: 106
+Index: 100
+Index: 146
+Index: 66
+Index: 107
+Index: 105
+Index: 26
+x: 530, y: 30
+Index: 67
+x: 550, y: 50
+Index: 108
+Index: 147
+Index: 186
+Index: 145
+Index: 104
+Index: 65
+Index: 64
+x: 490, y: 50
+Index: 148
+Index: 68
+Index: 144
+Index: 25
+x: 510, y: 30
+Index: 27
+Index: 185
+Index: 187
+Index: 226
+Index: 109
+Index: 103
+Index: 51
+x: 230, y: 50
+Index: 111
+Index: 91
+x: 230, y: 70
+Index: 11
+Index: 52
+x: 250, y: 50
+Index: 50
+x: 210, y: 50
+Index: 151
+Index: 71
+Index: 112
+Index: 110
+Index: 12
+Index: 53
+Index: 92
+x: 250, y: 70
+Index: 131
+x: 230, y: 90
+Index: 90
+x: 210, y: 70
+Index: 49
+x: 190, y: 50
+Index: 10
+x: 210, y: 30
+Index: 31
+x: 630, y: 30
+Index: 72
+Index: 113
+x: 670, y: 70
+Index: 152
+x: 650, y: 90
+Index: 191
+Index: 150
+Index: 109
+Index: 70
+Index: 9
+x: 190, y: 30
+Index: 93
+x: 270, y: 70
+Index: 13
+Index: 89
+x: 190, y: 70
+Index: 130
+x: 210, y: 90
+Index: 132
+x: 250, y: 90
+Index: 171
+x: 230, y: 110
+Index: 54
+Index: 48
+x: 170, y: 50
+Index: 69
+Index: 153
+x: 670, y: 90
+Index: 73
+Index: 149
+Index: 30
+Index: 32
+Index: 190
+Index: 192
+x: 650, y: 110
+Index: 231
+Index: 114
+x: 690, y: 70
+Index: 108
+Index: 71
+Index: 111
+Index: 31
+x: 630, y: 30
+Index: 72
+Index: 70
+Index: 32
+x: 650, y: 30
+Index: 73
+Index: 112
+Index: 151
+Index: 110
+Index: 69
+Index: 30
+Index: 29
+Index: 113
+Index: 33
+x: 670, y: 30
+Index: 109
+Index: 150
+Index: 152
+Index: 191
+Index: 74
+Index: 68
+Index: 206
+x: 130, y: 130
+Index: 246
+x: 130, y: 150
+Index: 166
+x: 130, y: 110
+Index: 207
+x: 150, y: 130
+Index: 205
+x: 110, y: 130
+Index: 126
+x: 130, y: 90
+Index: 167
+x: 150, y: 110
+Index: 208
+x: 170, y: 130
+Index: 247
+x: 150, y: 150
+Index: 286
+x: 130, y: 170
+Index: 245
+x: 110, y: 150
+Index: 204
+x: 90, y: 130
+Index: 165
+x: 110, y: 110
+Index: 141
+Index: 164
+x: 90, y: 110
+Index: 248
+x: 170, y: 150
+Index: 168
+x: 170, y: 110
+Index: 244
+x: 90, y: 150
+Index: 125
+x: 110, y: 90
+Index: 127
+x: 150, y: 90
+Index: 86
+x: 130, y: 70
+Index: 285
+x: 110, y: 170
+Index: 287
+x: 150, y: 170
+Index: 326
+x: 130, y: 190
+Index: 209
+x: 190, y: 130
+Index: 203
+x: 70, y: 130
+Index: 181
+Index: 101
+Index: 142
+Index: 140
+Index: 61
+Index: 102
+Index: 143
+Index: 182
+Index: 221
+x: 430, y: 130
+Index: 180
+Index: 139
+Index: 100
+Index: 99
+Index: 183
+Index: 103
+Index: 179
+Index: 60
+Index: 62
+x: 450, y: 50
+Index: 21
+x: 430, y: 30
+Index: 220
+x: 410, y: 130
+Index: 222
+Index: 261
+x: 430, y: 150
+Index: 144
+Index: 138
+Index: 24
+x: 490, y: 30
+Index: 64
+x: 490, y: 50
+Index: 25
+x: 510, y: 30
+Index: 23
+Index: 26
+x: 530, y: 30
+Index: 65
+Index: 104
+Index: 63
+Index: 22
+x: 450, y: 30
+Index: 23
+x: 470, y: 30
+Index: 66
+Index: 62
+Index: 103
+Index: 105
+Index: 144
+Index: 27
+Index: 21
+Index: 63
+Index: 24
+x: 490, y: 30
+Index: 22
+Index: 25
+x: 510, y: 30
+Index: 64
+x: 490, y: 50
+Index: 103
+Index: 62
+Index: 21
+Index: 58
+x: 370, y: 50
+Index: 63
+Index: 65
+Index: 61
+x: 430, y: 50
+Index: 102
+Index: 104
+Index: 143
+Index: 26
+x: 530, y: 30
+Index: 20
+Index: 98
+Index: 18
+Index: 59
+Index: 57
+x: 350, y: 50
+Index: 103
+Index: 23
+Index: 64
+x: 490, y: 50
+Index: 62
+Index: 19
+Index: 60
+Index: 99
+Index: 138
+Index: 97
+Index: 56
+x: 330, y: 50
+Index: 17
+Index: 24
+Index: 65
+Index: 104
+Index: 143
+Index: 102
+Index: 61
+Index: 22
+Index: 16
+Index: 100
+Index: 20
+Index: 96
+x: 330, y: 70
+Index: 137
+Index: 139
+Index: 178
+Index: 61
+Index: 55
+x: 310, y: 50
+Index: 21
+Index: 105
+Index: 25
+Index: 101
+Index: 142
+Index: 144
+Index: 183
+Index: 66
+Index: 60
+x: 410, y: 50
+Index: 54
+x: 290, y: 50
+Index: 94
+Index: 14
+Index: 55
+Index: 53
+Index: 68
+Index: 15
+Index: 56
+x: 330, y: 50
+Index: 95
+Index: 134
+Index: 93
+Index: 52
+x: 250, y: 50
+Index: 13
+Index: 108
+Index: 28
+Index: 69
+Index: 67
+Index: 12
+x: 250, y: 30
+Index: 96
+Index: 16
+Index: 92
+Index: 133
+x: 270, y: 90
+Index: 135
+x: 310, y: 90
+Index: 174
+x: 290, y: 110
+Index: 57
+Index: 51
+x: 230, y: 50
+Index: 29
+Index: 70
+Index: 109
+Index: 148
+Index: 107
+Index: 66
+Index: 27
+Index: 26
+Index: 110
+Index: 30
+Index: 106
+Index: 147
+Index: 149
+Index: 188
+Index: 71
+Index: 65
+Index: 98
+Index: 289
+x: 190, y: 170
+Index: 213
+x: 270, y: 130
+Index: 138
+Index: 58
+x: 370, y: 50
+Index: 99
+Index: 97
+Index: 329
+x: 190, y: 190
+Index: 249
+x: 190, y: 150
+Index: 290
+x: 210, y: 170
+Index: 288
+x: 170, y: 170
+Index: 253
+x: 270, y: 150
+Index: 173
+x: 270, y: 110
+Index: 214
+x: 290, y: 130
+Index: 212
+x: 250, y: 130
+Index: 251
+x: 230, y: 150
+Index: 18
+Index: 59
+Index: 100
+Index: 139
+Index: 178
+Index: 137
+Index: 96
+Index: 57
+Index: 209
+Index: 250
+x: 210, y: 150
+Index: 291
+x: 230, y: 170
+Index: 330
+x: 210, y: 190
+Index: 369
+x: 190, y: 210
+Index: 328
+x: 170, y: 190
+Index: 287
+Index: 248
+Index: 133
+Index: 174
+Index: 215
+x: 310, y: 130
+Index: 254
+x: 290, y: 150
+Index: 293
+x: 270, y: 170
+Index: 252
+x: 250, y: 150
+Index: 211
+x: 230, y: 130
+Index: 172
+x: 250, y: 110
+Index: 291
+Index: 211
+Index: 252
+Index: 250
+Index: 56
+Index: 140
+Index: 60
+Index: 136
+Index: 17
+Index: 19
+Index: 177
+x: 350, y: 110
+Index: 179
+Index: 218
+x: 370, y: 130
+Index: 101
+Index: 95
+Index: 247
+Index: 331
+x: 230, y: 190
+Index: 251
+Index: 327
+x: 150, y: 190
+Index: 208
+Index: 210
+x: 210, y: 130
+Index: 169
+x: 190, y: 110
+Index: 368
+x: 170, y: 210
+Index: 370
+x: 210, y: 210
+Index: 409
+x: 190, y: 230
+Index: 292
+x: 250, y: 170
+Index: 286
+Index: 171
+Index: 255
+x: 310, y: 150
+Index: 175
+x: 310, y: 110
+Index: 251
+Index: 132
+Index: 134
+Index: 93
+Index: 292
+Index: 294
+x: 290, y: 170
+Index: 333
+x: 270, y: 190
+Index: 216
+x: 330, y: 130
+Index: 210
+Index: 171
+Index: 212
+Index: 253
+Index: 292
+Index: 331
+Index: 290
+Index: 249
+Index: 210
+Index: 209
+Index: 293
+Index: 213
+Index: 289
+Index: 170
+x: 210, y: 110
+Index: 172
+Index: 131
+Index: 330
+Index: 332
+x: 250, y: 190
+Index: 371
+x: 230, y: 210
+Index: 254
+Index: 248
+Index: 219
+Index: 259
+x: 390, y: 150
+Index: 179
+Index: 220
+Index: 218
+Index: 139
+Index: 180
+Index: 221
+Index: 260
+x: 410, y: 150
+Index: 299
+x: 390, y: 170
+Index: 258
+Index: 217
+Index: 178
+Index: 177
+Index: 261
+Index: 181
+Index: 257
+x: 350, y: 150
+Index: 138
+Index: 140
+Index: 99
+Index: 298
+x: 370, y: 170
+Index: 300
+x: 410, y: 170
+Index: 339
+x: 390, y: 190
+Index: 222
+Index: 216
+Index: 62
+Index: 424
+x: 490, y: 230
+Index: 102
+Index: 22
+Index: 63
+Index: 61
+x: 430, y: 50
+Index: 464
+x: 490, y: 250
+Index: 384
+x: 490, y: 210
+Index: 425
+x: 510, y: 230
+Index: 423
+x: 470, y: 230
+Index: 306
+x: 530, y: 170
+Index: 23
+Index: 64
+x: 490, y: 50
+Index: 103
+Index: 142
+Index: 101
+Index: 60
+Index: 21
+Index: 344
+x: 490, y: 190
+Index: 385
+x: 510, y: 210
+Index: 426
+x: 530, y: 230
+Index: 465
+x: 510, y: 250
+Index: 504
+x: 490, y: 270
+Index: 463
+x: 470, y: 250
+Index: 422
+x: 450, y: 230
+Index: 383
+x: 470, y: 210
+Index: 346
+x: 530, y: 190
+Index: 266
+Index: 307
+x: 550, y: 170
+Index: 305
+x: 510, y: 170
+Index: 20
+Index: 104
+Index: 24
+Index: 100
+Index: 141
+Index: 143
+Index: 182
+Index: 65
+Index: 59
+Index: 382
+x: 450, y: 210
+Index: 466
+x: 530, y: 250
+Index: 386
+x: 530, y: 210
+Index: 462
+x: 450, y: 250
+Index: 343
+x: 470, y: 190
+Index: 345
+x: 510, y: 190
+Index: 304
+x: 490, y: 170
+Index: 503
+x: 470, y: 270
+Index: 505
+x: 510, y: 270
+Index: 544
+x: 490, y: 290
+Index: 427
+x: 550, y: 230
+Index: 421
+x: 430, y: 230
+Index: 226
+Index: 267
+Index: 308
+Index: 347
+x: 550, y: 190
+Index: 386
+Index: 345
+Index: 304
+Index: 265
+x: 510, y: 150
+Index: 385
+Index: 264
+x: 490, y: 150
+Index: 348
+x: 570, y: 190
+Index: 268
+Index: 344
+Index: 225
+Index: 227
+Index: 186
+Index: 385
+Index: 387
+x: 550, y: 210
+Index: 426
+Index: 309
+Index: 303
+x: 470, y: 170
+Index: 425
+Index: 345
+Index: 386
+Index: 384
+Index: 305
+Index: 346
+Index: 387
+Index: 426
+Index: 465
+Index: 424
+Index: 383
+Index: 344
+Index: 303
+Index: 343
+Index: 427
+Index: 347
+Index: 423
+Index: 304
+Index: 306
+Index: 265
+Index: 464
+Index: 466
+Index: 505
+Index: 388
+x: 570, y: 210
+Index: 382
+Index: 343
+Index: 263
+x: 470, y: 150
+Index: 304
+Index: 302
+x: 450, y: 170
+Index: 223
+Index: 264
+Index: 305
+Index: 344
+Index: 383
+Index: 342
+x: 450, y: 190
+Index: 301
+x: 430, y: 170
+Index: 262
+x: 450, y: 150
+Index: 261
+Index: 345
+Index: 265
+Index: 341
+x: 430, y: 190
+Index: 222
+Index: 224
+Index: 183
+Index: 382
+Index: 384
+Index: 423
+Index: 306
+Index: 300
+Index: 259
+Index: 351
+x: 630, y: 190
+Index: 299
+Index: 219
+Index: 260
+Index: 258
+Index: 391
+x: 630, y: 210
+Index: 311
+x: 630, y: 170
+Index: 352
+x: 650, y: 190
+Index: 350
+x: 610, y: 190
+Index: 432
+Index: 305
+Index: 179
+Index: 220
+Index: 261
+Index: 300
+Index: 339
+Index: 298
+Index: 257
+Index: 218
+Index: 271
+Index: 312
+x: 650, y: 170
+Index: 353
+x: 670, y: 190
+Index: 392
+x: 650, y: 210
+Index: 431
+x: 630, y: 230
+Index: 390
+x: 610, y: 210
+Index: 349
+Index: 310
+Index: 472
+Index: 392
+Index: 433
+Index: 431
+Index: 345
+Index: 265
+Index: 306
+Index: 304
+Index: 432
+Index: 217
+Index: 301
+Index: 221
+Index: 297
+x: 350, y: 170
+Index: 178
+Index: 180
+Index: 139
+Index: 338
+x: 370, y: 190
+Index: 340
+x: 410, y: 190
+Index: 379
+x: 390, y: 210
+Index: 262
+Index: 256
+x: 330, y: 150
+Index: 309
+Index: 393
+Index: 313
+x: 670, y: 170
+Index: 389
+Index: 270
+Index: 272
+x: 650, y: 150
+Index: 231
+Index: 430
+x: 610, y: 230
+Index: 432
+Index: 471
+x: 630, y: 250
+Index: 354
+Index: 348
+Index: 352
+Index: 393
+Index: 434
+Index: 473
+Index: 512
+x: 650, y: 270
+Index: 471
+Index: 430
+Index: 391
+x: 630, y: 210
+Index: 225
+Index: 266
+Index: 307
+Index: 346
+Index: 385
+Index: 344
+Index: 303
+Index: 264
+Index: 472
+Index: 392
+x: 650, y: 210
+Index: 433
+Index: 431
+Index: 390
+Index: 474
+Index: 394
+Index: 470
+x: 610, y: 250
+Index: 351
+Index: 353
+Index: 312
+Index: 511
+x: 630, y: 270
+Index: 513
+Index: 552
+Index: 435
+Index: 429
+x: 590, y: 230
+Index: 512
+x: 650, y: 270
+Index: 263
+Index: 347
+Index: 267
+Index: 343
+Index: 224
+Index: 226
+Index: 185
+Index: 384
+Index: 386
+Index: 425
+Index: 308
+Index: 302
+Index: 352
+Index: 393
+x: 670, y: 210
+Index: 434
+Index: 473
+Index: 512
+Index: 471
+Index: 430
+Index: 391
+Index: 552
+Index: 472
+x: 650, y: 250
+Index: 513
+Index: 511
+x: 630, y: 270
+Index: 390
+Index: 474
+Index: 394
+x: 690, y: 210
+Index: 470
+x: 610, y: 250
+Index: 351
+Index: 353
+Index: 312
+Index: 511
+Index: 513
+Index: 552
+Index: 435
+Index: 429
+Index: 432
+Index: 473
+x: 670, y: 250
+Index: 514
+Index: 553
+x: 670, y: 290
+Index: 592
+x: 650, y: 310
+Index: 551
+Index: 510
+x: 610, y: 270
+Index: 471
+Index: 470
+Index: 554
+x: 690, y: 290
+Index: 474
+Index: 550
+Index: 431
+x: 630, y: 230
+Index: 433
+Index: 392
+Index: 591
+Index: 593
+x: 670, y: 310
+Index: 632
+x: 650, y: 330
+Index: 515
+Index: 509
+x: 590, y: 270
+Index: 468
+Index: 754
+x: 690, y: 390
+Index: 590
+x: 610, y: 310
+Index: 508
+Index: 428
+Index: 469
+x: 590, y: 250
+Index: 467
+Index: 794
+x: 690, y: 410
+Index: 714
+x: 690, y: 370
+Index: 755
+x: 710, y: 390
+Index: 753
+x: 670, y: 390
+Index: 630
+x: 610, y: 330
+Index: 550
+Index: 591
+Index: 589
+x: 590, y: 310
+Index: 388
+Index: 429
+Index: 470
+Index: 509
+Index: 548
+Index: 507
+Index: 466
+Index: 427
+Index: 674
+x: 690, y: 350
+Index: 715
+x: 710, y: 370
+Index: 756
+x: 730, y: 390
+Index: 795
+x: 710, y: 410
+Index: 834
+x: 690, y: 430
+Index: 793
+x: 670, y: 410
+Index: 752
+x: 650, y: 390
+Index: 713
+x: 670, y: 370
+Index: 510
+Index: 551
+Index: 592
+Index: 631
+x: 630, y: 330
+Index: 670
+x: 610, y: 350
+Index: 629
+x: 590, y: 330
+Index: 588
+x: 570, y: 310
+Index: 549
+x: 590, y: 290
+Index: 426
+Index: 510
+Index: 430
+Index: 506
+Index: 387
+Index: 389
+Index: 348
+Index: 547
+Index: 549
+Index: 588
+Index: 471
+Index: 465
+Index: 712
+x: 650, y: 370
+Index: 796
+x: 730, y: 410
+Index: 716
+x: 730, y: 370
+Index: 792
+x: 650, y: 410
+Index: 673
+x: 670, y: 350
+Index: 675
+x: 710, y: 350
+Index: 634
+x: 690, y: 330
+Index: 833
+x: 670, y: 430
+Index: 835
+x: 710, y: 430
+Index: 874
+x: 690, y: 450
+Index: 757
+x: 750, y: 390
+Index: 751
+x: 630, y: 390
+Index: 711
+x: 630, y: 370
+Index: 548
+Index: 632
+Index: 552
+Index: 628
+x: 570, y: 330
+Index: 509
+Index: 511
+Index: 470
+Index: 669
+x: 590, y: 350
+Index: 671
+x: 630, y: 350
+Index: 710
+x: 610, y: 370
+Index: 593
+Index: 587
+x: 550, y: 310
+Index: 751
+Index: 671
+Index: 712
+Index: 710
+Index: 792
+Index: 631
+Index: 672
+x: 650, y: 350
+Index: 713
+Index: 752
+Index: 791
+x: 630, y: 410
+Index: 750
+x: 610, y: 390
+Index: 709
+x: 590, y: 370
+Index: 670
+Index: 832
+x: 650, y: 430
+Index: 752
+Index: 793
+Index: 791
+Index: 669
+Index: 753
+Index: 673
+Index: 749
+x: 590, y: 390
+Index: 630
+Index: 632
+Index: 591
+Index: 790
+x: 610, y: 410
+Index: 792
+Index: 831
+x: 630, y: 430
+Index: 714
+Index: 708
+x: 570, y: 370
+Index: 712
+Index: 753
+Index: 794
+Index: 833
+Index: 872
+x: 650, y: 450
+Index: 831
+Index: 790
+Index: 751
+Index: 750
+Index: 834
+Index: 754
+Index: 830
+x: 610, y: 430
+Index: 711
+Index: 713
+Index: 672
+Index: 871
+x: 630, y: 450
+Index: 873
+x: 670, y: 450
+Index: 912
+x: 650, y: 470
+Index: 795
+Index: 789
+x: 590, y: 410
+Index: 671
+Index: 790
+Index: 711
+Index: 631
+Index: 672
+Index: 670
+Index: 830
+Index: 750
+Index: 791
+Index: 789
+Index: 591
+Index: 632
+Index: 673
+Index: 712
+Index: 751
+Index: 710
+Index: 669
+Index: 630
+Index: 710
+Index: 751
+Index: 792
+Index: 831
+Index: 870
+x: 610, y: 450
+Index: 829
+x: 590, y: 430
+Index: 788
+x: 570, y: 410
+Index: 749
+Index: 629
+Index: 713
+Index: 633
+x: 670, y: 330
+Index: 709
+Index: 590
+Index: 592
+Index: 551
+Index: 750
+Index: 752
+Index: 791
+Index: 674
+Index: 668
+x: 570, y: 350
+Index: 748
+x: 570, y: 390
+Index: 832
+Index: 752
+Index: 828
+x: 570, y: 430
+Index: 709
+Index: 711
+Index: 670
+Index: 869
+x: 590, y: 450
+Index: 871
+Index: 910
+x: 610, y: 470
+Index: 793
+Index: 787
+x: 550, y: 410
+Index: 669
+Index: 709
+Index: 629
+Index: 670
+Index: 668
+Index: 949
+x: 590, y: 490
+Index: 708
+Index: 589
+Index: 630
+Index: 671
+Index: 710
+Index: 749
+Index: 708
+Index: 667
+x: 550, y: 350
+Index: 628
+Index: 989
+x: 590, y: 510
+Index: 909
+x: 590, y: 470
+Index: 950
+x: 610, y: 490
+Index: 948
+x: 570, y: 490
+Index: 748
+Index: 668
+Index: 709
+Index: 707
+x: 550, y: 370
+Index: 627
+x: 550, y: 330
+Index: 711
+Index: 631
+Index: 707
+Index: 588
+Index: 590
+Index: 549
+Index: 748
+Index: 750
+Index: 789
+Index: 672
+Index: 666
+x: 530, y: 350
+Index: 869
+Index: 910
+Index: 951
+x: 630, y: 490
+Index: 990
+x: 610, y: 510
+Index: 1029
+x: 590, y: 530
+Index: 988
+x: 570, y: 510
+Index: 947
+x: 550, y: 490
+Index: 908
+x: 570, y: 470
+Index: 628
+Index: 669
+Index: 710
+Index: 749
+Index: 788
+Index: 747
+x: 550, y: 390
+Index: 706
+x: 530, y: 370
+Index: 667
+Index: 907
+x: 550, y: 470
+Index: 991
+x: 630, y: 510
+Index: 911
+x: 630, y: 470
+Index: 987
+x: 550, y: 510
+Index: 868
+x: 570, y: 450
+Index: 870
+Index: 829
+Index: 1028
+x: 570, y: 530
+Index: 1030
+x: 610, y: 530
+Index: 1069
+x: 590, y: 550
+Index: 952
+x: 650, y: 490
+Index: 946
+x: 530, y: 490
+Index: 666
+Index: 750
+Index: 670
+Index: 746
+x: 530, y: 390
+Index: 627
+Index: 629
+Index: 588
+Index: 787
+Index: 789
+Index: 828
+Index: 711
+Index: 705
+x: 510, y: 370
+Index: 708
+Index: 748
+Index: 668
+Index: 709
+Index: 707
+Index: 1111
+x: 630, y: 570
+Index: 628
+Index: 669
+Index: 710
+Index: 749
+Index: 788
+Index: 747
+Index: 706
+Index: 667
+Index: 628
+Index: 1151
+x: 630, y: 590
+Index: 1071
+x: 630, y: 550
+Index: 1112
+x: 650, y: 570
+Index: 1110
+x: 610, y: 570
+Index: 666
+Index: 750
+Index: 670
+Index: 746
+Index: 627
+Index: 629
+Index: 588
+Index: 787
+Index: 789
+Index: 828
+Index: 711
+Index: 705
+Index: 1113
+x: 670, y: 570
+Index: 668
+Index: 588
+Index: 629
+Index: 627
+Index: 1031
+x: 630, y: 530
+Index: 1072
+x: 650, y: 550
+Index: 1113
+Index: 1152
+x: 650, y: 590
+Index: 1191
+x: 630, y: 610
+Index: 1150
+x: 610, y: 590
+Index: 1109
+x: 590, y: 570
+Index: 1070
+x: 610, y: 550
+Index: 1153
+x: 670, y: 590
+Index: 1073
+x: 670, y: 550
+Index: 1114
+x: 690, y: 570
+Index: 1112
+Index: 1069
+Index: 1153
+Index: 1073
+Index: 1149
+x: 590, y: 590
+Index: 1030
+Index: 1032
+x: 650, y: 530
+Index: 991
+Index: 1190
+x: 610, y: 610
+Index: 1192
+x: 650, y: 610
+Index: 1114
+Index: 1108
+x: 570, y: 570
+Index: 548
+Index: 589
+Index: 630
+Index: 669
+Index: 708
+Index: 667
+Index: 626
+x: 530, y: 330
+Index: 587
+Index: 1033
+x: 670, y: 530
+Index: 1074
+x: 690, y: 550
+Index: 1115
+x: 710, y: 570
+Index: 1154
+x: 690, y: 590
+Index: 1193
+x: 670, y: 610
+Index: 1152
+Index: 1111
+Index: 1072
+Index: 586
+Index: 670
+Index: 590
+Index: 666
+Index: 547
+Index: 549
+Index: 508
+Index: 707
+Index: 709
+Index: 748
+Index: 631
+Index: 625
+x: 510, y: 330
+Index: 1071
+Index: 1155
+x: 710, y: 590
+Index: 1075
+x: 710, y: 550
+Index: 1151
+Index: 1032
+Index: 1034
+x: 690, y: 530
+Index: 993
+x: 670, y: 510
+Index: 1192
+Index: 1194
+x: 690, y: 610
+Index: 1116
+x: 730, y: 570
+Index: 1110
+Index: 385
+Index: 1070
+Index: 425
+Index: 345
+Index: 386
+Index: 384
+Index: 1110
+Index: 1030
+Index: 1071
+Index: 1069
+Index: 992
+x: 650, y: 510
+Index: 305
+Index: 346
+Index: 387
+Index: 426
+Index: 465
+Index: 424
+Index: 383
+x: 470, y: 210
+Index: 344
+Index: 990
+Index: 1031
+Index: 1072
+Index: 1111
+Index: 1150
+Index: 1109
+Index: 1068
+x: 570, y: 550
+Index: 1029
+Index: 1032
+Index: 952
+Index: 993
+Index: 991
+Index: 343
+Index: 427
+Index: 347
+Index: 423
+Index: 304
+Index: 306
+Index: 265
+Index: 464
+Index: 466
+Index: 505
+x: 510, y: 270
+Index: 388
+Index: 382
+x: 450, y: 210
+Index: 1028
+Index: 1112
+Index: 1032
+Index: 1108
+Index: 989
+Index: 991
+Index: 950
+Index: 1149
+Index: 1151
+Index: 1190
+Index: 1073
+Index: 1067
+x: 550, y: 550
+Index: 990
+Index: 912
+Index: 953
+x: 670, y: 490
+Index: 994
+x: 690, y: 510
+Index: 1033
+Index: 1072
+Index: 1031
+Index: 990
+Index: 951
+Index: 1030
+Index: 950
+Index: 991
+Index: 989
+Index: 950
+Index: 1034
+Index: 954
+x: 690, y: 490
+Index: 1030
+Index: 911
+Index: 913
+x: 670, y: 470
+Index: 872
+Index: 1071
+Index: 1073
+Index: 1112
+Index: 995
+x: 710, y: 510
+Index: 989
+Index: 910
+Index: 951
+Index: 992
+Index: 1031
+Index: 1070
+Index: 1029
+Index: 988
+Index: 949
+Index: 909
+Index: 948
+Index: 1032
+Index: 952
+Index: 1028
+Index: 909
+Index: 911
+Index: 870
+Index: 1069
+Index: 1071
+Index: 1110
+Index: 993
+Index: 987
+Index: 949
+Index: 869
+Index: 910
+Index: 908
+Index: 908
+Index: 829
+Index: 870
+Index: 911
+Index: 950
+Index: 989
+Index: 948
+Index: 907
+Index: 868
+Index: 948
+Index: 868
+Index: 909
+Index: 907
+Index: 867
+x: 550, y: 450
+Index: 951
+Index: 871
+Index: 947
+Index: 828
+Index: 830
+Index: 789
+Index: 988
+Index: 990
+Index: 1029
+Index: 912
+Index: 906
+x: 530, y: 470
+Index: 828
+Index: 869
+Index: 910
+Index: 949
+Index: 988
+Index: 947
+Index: 906
+Index: 867
+Index: 1070
+Index: 866
+x: 530, y: 450
+Index: 950
+Index: 870
+Index: 946
+Index: 827
+x: 550, y: 430
+Index: 829
+Index: 788
+Index: 987
+Index: 989
+Index: 1028
+Index: 911
+Index: 905
+x: 510, y: 470
+Index: 746
+Index: 1110
+Index: 1030
+Index: 1071
+Index: 1069
+Index: 786
+x: 530, y: 410
+Index: 706
+Index: 747
+Index: 745
+x: 510, y: 390
+Index: 990
+Index: 1031
+Index: 1072
+Index: 1111
+Index: 1150
+Index: 1109
+Index: 1068
+Index: 1029
+Index: 988
+Index: 666
+Index: 707
+Index: 748
+Index: 787
+Index: 826
+x: 530, y: 430
+Index: 785
+x: 510, y: 410
+Index: 744
+x: 490, y: 390
+Index: 705
+Index: 666
+Index: 1028
+Index: 1112
+Index: 1032
+Index: 1108
+Index: 989
+Index: 991
+Index: 950
+Index: 1149
+Index: 1151
+Index: 1190
+Index: 1073
+Index: 1067
+Index: 1028
+Index: 948
+Index: 989
+Index: 987
+Index: 704
+x: 490, y: 370
+Index: 788
+Index: 708
+Index: 784
+x: 490, y: 410
+Index: 665
+x: 510, y: 350
+Index: 667
+Index: 626
+Index: 825
+x: 510, y: 430
+Index: 827
+Index: 866
+Index: 749
+Index: 743
+x: 470, y: 390
+Index: 706
+Index: 626
+Index: 667
+Index: 665
+Index: 1029
+Index: 908
+Index: 949
+Index: 990
+Index: 1029
+Index: 1068
+Index: 1027
+x: 550, y: 530
+Index: 986
+x: 530, y: 510
+Index: 947
+Index: 586
+Index: 627
+Index: 668
+Index: 707
+Index: 746
+Index: 705
+Index: 664
+x: 490, y: 350
+Index: 625
+Index: 1069
+Index: 989
+Index: 1030
+Index: 1028
+Index: 946
+Index: 1030
+Index: 950
+Index: 1026
+x: 530, y: 530
+Index: 907
+Index: 909
+Index: 868
+Index: 1067
+Index: 1069
+Index: 1108
+Index: 991
+Index: 985
+x: 510, y: 510
+Index: 624
+x: 490, y: 330
+Index: 708
+Index: 628
+Index: 704
+Index: 585
+x: 510, y: 310
+Index: 587
+Index: 546
+Index: 745
+Index: 747
+Index: 786
+Index: 669
+Index: 663
+x: 470, y: 350
+Index: 949
+Index: 990
+Index: 1031
+Index: 1070
+Index: 1109
+Index: 1068
+Index: 1027
+Index: 988
+Index: 987
+Index: 1071
+Index: 991
+Index: 1067
+Index: 948
+Index: 950
+Index: 909
+Index: 1108
+Index: 1110
+Index: 1149
+Index: 1032
+Index: 1026
+Index: 988
+Index: 1028
+Index: 948
+Index: 989
+Index: 987
+Index: 908
+Index: 949
+Index: 990
+Index: 1029
+Index: 1068
+Index: 1027
+Index: 986
+Index: 947
+Index: 866
+Index: 946
+Index: 1030
+Index: 950
+Index: 1026
+Index: 907
+Index: 909
+Index: 868
+Index: 1067
+Index: 1069
+Index: 1108
+Index: 991
+Index: 985
+Index: 906
+Index: 826
+Index: 867
+Index: 865
+x: 510, y: 450
+Index: 906
+Index: 786
+Index: 827
+Index: 868
+Index: 907
+Index: 946
+Index: 905
+Index: 864
+x: 490, y: 450
+Index: 825
+Index: 946
+Index: 866
+Index: 907
+Index: 905
+Index: 1151
+Index: 824
+x: 490, y: 430
+Index: 908
+Index: 828
+Index: 904
+x: 490, y: 470
+Index: 785
+Index: 787
+Index: 746
+Index: 945
+x: 510, y: 490
+Index: 947
+Index: 986
+Index: 869
+Index: 863
+x: 470, y: 450
+Index: 826
+Index: 867
+Index: 908
+Index: 947
+Index: 986
+Index: 945
+Index: 904
+Index: 865
+Index: 1191
+Index: 1111
+Index: 1152
+Index: 1150
+Index: 864
+Index: 948
+Index: 868
+Index: 944
+x: 490, y: 490
+Index: 825
+Index: 827
+Index: 786
+Index: 985
+Index: 987
+Index: 1026
+Index: 909
+Index: 903
+x: 470, y: 470
+Index: 1071
+Index: 1112
+Index: 1153
+Index: 1192
+Index: 1190
+Index: 1149
+Index: 1110
+Index: 743
+Index: 1109
+Index: 1193
+Index: 1113
+Index: 1189
+x: 590, y: 610
+Index: 1070
+Index: 1072
+Index: 1031
+Index: 1154
+Index: 1148
+x: 570, y: 590
+Index: 783
+x: 470, y: 410
+Index: 703
+x: 470, y: 370
+Index: 744
+Index: 742
+x: 450, y: 390
+Index: 663
+Index: 704
+Index: 745
+Index: 784
+Index: 823
+x: 470, y: 430
+Index: 782
+x: 450, y: 410
+Index: 741
+x: 430, y: 390
+Index: 702
+x: 450, y: 370
+Index: 701
+x: 430, y: 370
+Index: 785
+Index: 705
+Index: 781
+x: 430, y: 410
+Index: 662
+x: 450, y: 350
+Index: 664
+Index: 623
+x: 470, y: 330
+Index: 822
+x: 450, y: 430
+Index: 824
+Index: 863
+Index: 746
+Index: 740
+x: 410, y: 390
+Index: 903
+Index: 943
+x: 470, y: 490
+Index: 863
+Index: 904
+Index: 902
+x: 450, y: 470
+Index: 823
+Index: 864
+Index: 905
+Index: 944
+Index: 983
+x: 470, y: 510
+Index: 942
+x: 450, y: 490
+Index: 901
+x: 430, y: 470
+Index: 862
+x: 450, y: 450
+Index: 1149
+Index: 861
+x: 430, y: 450
+Index: 945
+Index: 865
+Index: 941
+x: 430, y: 490
+Index: 822
+Index: 824
+Index: 783
+Index: 982
+x: 450, y: 510
+Index: 984
+x: 490, y: 510
+Index: 1023
+x: 470, y: 530
+Index: 906
+Index: 900
+x: 410, y: 470
+Index: 1189
+Index: 1109
+Index: 1150
+Index: 1148
+Index: 1069
+Index: 1110
+Index: 1151
+Index: 1190
+Index: 1188
+x: 570, y: 610
+Index: 1147
+x: 550, y: 590
+Index: 1108
+Index: 1107
+x: 550, y: 570
+Index: 1191
+Index: 1111
+Index: 1187
+x: 550, y: 610
+Index: 1068
+Index: 1070
+Index: 1029
+Index: 1152
+Index: 1146
+x: 530, y: 590
+Index: 629
+Index: 629
+Index: 629
+Index: 629
+Index: 669
+Index: 589
+Index: 630
+Index: 628
+Index: 669
+Index: 589
+Index: 630
+Index: 628
+Index: 669
+Index: 589
+Index: 630
+Index: 628
+Index: 669
+Index: 589
+Index: 630
+Index: 628
+Index: 549
+Index: 590
+Index: 631
+Index: 670
+Index: 709
+Index: 668
+Index: 627
+Index: 588
+Index: 549
+Index: 590
+Index: 631
+Index: 670
+Index: 709
+Index: 668
+Index: 627
+Index: 588
+Index: 549
+Index: 590
+Index: 631
+Index: 670
+Index: 709
+Index: 668
+Index: 627
+Index: 588
+Index: 549
+Index: 590
+Index: 631
+Index: 670
+Index: 709
+Index: 668
+Index: 627
+Index: 588
+Index: 587
+Index: 671
+Index: 591
+Index: 667
+Index: 548
+Index: 550
+Index: 509
+Index: 708
+Index: 710
+Index: 749
+Index: 632
+Index: 626
+Index: 587
+Index: 671
+Index: 591
+Index: 667
+Index: 548
+Index: 550
+Index: 509
+Index: 708
+Index: 710
+Index: 749
+Index: 632
+Index: 626
+Index: 587
+Index: 671
+Index: 591
+Index: 667
+Index: 548
+Index: 550
+Index: 509
+Index: 708
+Index: 710
+Index: 749
+Index: 632
+Index: 626
+Index: 587
+Index: 671
+Index: 591
+Index: 667
+Index: 548
+Index: 550
+Index: 509
+Index: 708
+Index: 710
+Index: 749
+Index: 632
+Index: 626
